@@ -1,0 +1,9 @@
+#widget {
+  height: 500px;
+  width: 500px;
+  font-size: 10px;
+}
+.ant-divider,
+.ant-divider-horizontal {
+  margin: 0;
+}
